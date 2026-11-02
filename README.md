@@ -1,7 +1,7 @@
 
 # 🏠 House Market Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing house market trends,
 sales performance, regional pricing and house type analysis
@@ -13,7 +13,7 @@ house pricing, regional performance and property trends.
 This project was developed as part of my Power BI
 learning journey through a guided Udemy course.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Power BI
 - Power Query Editor
@@ -21,7 +21,7 @@ learning journey through a guided Udemy course.
 - Google BigQuery
 - SQL
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. House Market Overview
 
@@ -50,7 +50,7 @@ learning journey through a guided Udemy course.
 
 ![House Type Analysis](House_Type_Analysis.png)
 
-## 📐 DAX Concepts Used
+##  DAX Concepts Used
 
 - CALCULATE
 - DISTINCTCOUNT
@@ -62,7 +62,7 @@ learning journey through a guided Udemy course.
 - MAX
 - BLANK
 
-## 🎯 Key Learning Outcomes
+## Key Learning Outcomes
 
 - Data understanding and transformation
 - Data cleaning using Power Query
@@ -70,7 +70,7 @@ learning journey through a guided Udemy course.
 - Interactive dashboard development
 - Business data visualization
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 Developed by following a guided Udemy course.
 Dashboard implementation and report creation
