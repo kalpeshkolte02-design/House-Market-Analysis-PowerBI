@@ -69,9 +69,3 @@ learning journey through a guided Udemy course.
 - DAX calculations
 - Interactive dashboard development
 - Business data visualization
-
-##  Acknowledgement
-
-Developed by following a guided Udemy course.
-Dashboard implementation and report creation
-were performed by me.
